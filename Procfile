@@ -1,0 +1,1 @@
+worker: python Notion-GCal-2WaySync-Public.py
